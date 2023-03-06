@@ -1,4 +1,6 @@
-Hey! and welcome to the very first version of Magellanic!
-Im a solo developer so i wont be posting updates every day
-but ill try and make as many updates as i can. Join my discord
-if you find any bugs and have fun! https://discord.gg/Fusj4zktJu
+Hey. This is the third update of Magellanic.
+Didnt add that much really just made the parkour a bit harder
+and added a leader board. i fixed some bugs
+that were annoying in the last update and fixed a way
+to get out of the map.
+https://discord.gg/Fusj4zktJu
